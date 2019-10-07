@@ -6,7 +6,7 @@ session_destroy();
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Management Information System</title>
+        <title>Management Information System | MIS</title>
         <link href="css/bootstrap_min.css" rel="stylesheet" />
     </head>
     <body>
